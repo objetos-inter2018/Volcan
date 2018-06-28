@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Controles
+comment0.text=\n\ Clase\ que\ crea\ a\ la\ imagen\ de\ instrucciones.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Controles()
+comment1.text=\n\ Constructor\ de\ Controloes,\ lo\ escala\ a\ un\ buen\ tama\u00F1o\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Cuando\ le\ das\ click\ avanza\ al\ mundo\ de\ las\ instrucciones\n
+numComments=3

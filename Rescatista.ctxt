@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Rescatista
+comment0.text=\n\ Clase\ que\ crea\ al\ actor\ principal\ "Rescatista".\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Rescatista()
+comment1.text=\n\ Constructor\ de\ rescatista,\ que\ inicializa\ la\ velocidad\n\ y\ ademas\ escala\ la\ imagen\ .png\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Actua\ y\ manda\ llamar\ los\ demas\ metodos\n
+comment3.params=newVel
+comment3.target=void\ cambiaVelocidad(int)
+comment4.params=
+comment4.target=void\ buscaPocionVel()
+comment4.text=\n\ Metodo\ que\ se\ ejecuta\ solo\ cuando\ el\ rescatista\ toca\ una\ pocion\ de\ velocidad\n
+comment5.params=
+comment5.target=void\ buscaPocionLen()
+comment5.text=\n\ Metodo\ que\ se\ ejecuta\ solo\ cuando\ el\ rescatista\ toca\ una\ pocion\ de\ lentitud\n
+comment6.params=
+comment6.target=void\ buscaLava()
+comment6.text=\n\ Metodo\ que\ se\ ejecuta\ cuando\ Rescatista\ toca\ a\ la\ clase\ Lava,\ se\ decrementan\ las\ vidas\ y\ se\ elimina\ la\ gota\n
+comment7.params=
+comment7.target=void\ buscaNaufrago()
+comment7.text=\n\ Metodo\ que\ suma\ puntos\ cuando\ se\ salva\ a\ un\ naufrago\n
+comment8.params=
+comment8.target=void\ controles()
+comment8.text=\n\ Clase\ que\ mueve\ al\ personaje\ dependiendo\ las\ teclas\ oprimidas\n\ e\ interactua\ con\ el\ metodo\ scroll\ de\ el\ world\ "Volcan"\n
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Regresa
+comment0.text=\n\ Clase\ de\ objeto\ que\ regresa\ al\ menu\ cuando\ se\ pierde.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Condicional\ que\ cuando\ se\ toque\ este\ objeto\ se\ cree\ el\ mundo\ de\ menu\n
+comment2.params=
+comment2.target=Regresa()
+comment2.text=\n\ Constructor\ de\ regresa,\ escala\ la\ imagen\n
+numComments=3

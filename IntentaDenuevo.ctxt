@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IntentaDenuevo
+comment0.text=\n\ Clase\ que\ crea\ el\ objeto\ intentar\ de\ nuevo.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Cuando\ es\ pulsado\ este\ objeto,\ se\ vuelve\ a\ iniciar\ el\ juego.\n
+comment2.params=
+comment2.target=IntentaDenuevo()
+numComments=3

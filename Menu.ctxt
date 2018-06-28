@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Clase\ que\ muestra\ el\ objeto\ que\ va\ hasta\ el\ menu\ principal.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Cuando\ este\ actor\ es\ pulsado\ se\ dirige\ al\ menu\ principal\ del\ juego\n
+comment2.params=
+comment2.target=Menu()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Naufrago
+comment0.text=\n\ Clase\ que\ crea\ al\ actor\ Naufrago.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Naufrago\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=Naufrago()
+numComments=3

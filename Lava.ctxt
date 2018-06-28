@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lava
+comment0.text=\n\ Clase\ que\ crea\ al\ primer\ enemigo,\ Lava.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lava\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=Lava()
+comment2.text=\n\ Constructor\ de\ la\ clase,\ inicializa\ y\ escala\ el\ png\n
+comment3.params=
+comment3.target=void\ muevete()
+comment3.text=\n\ Mueve\ aleatoriamente\ la\ lava\ en\ x\n
+numComments=4

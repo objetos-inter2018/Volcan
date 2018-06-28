@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PocionVelocidad
+comment0.text=\n\ Clase\ que\ crea\ la\ pocion\ de\ la\ velocidad.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Se\ llama\ al\ metodo\ aumentaVelocidad\n
+comment2.params=
+comment2.target=PocionVelocidad()
+comment2.text=\n\ Se\ escala\ la\ imagen\ de\ pocima\n
+comment3.params=
+comment3.target=void\ aumentaVelocidad()
+numComments=4

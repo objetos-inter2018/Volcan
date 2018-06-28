@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vidas
+comment0.text=\n\ Clase\ que\ Crea\ el\ icono\ de\ vidas\ y\ tiene\ metodo\ para\ restarlas\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Counter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ restaVida()
+comment2.text=\n\ Clase\ que\ cuando\ se\ manda\ llamar\ se\ resta\ 1\ de\ la\ variable\ vida.\n
+comment3.params=
+comment3.target=int\ veVidas()
+comment3.text=\n\ Clase\ que\ contiene\ las\ vidas\ actuales\n\ \n\ @return\ regresa\ las\ vidas\ en\ entero\n
+numComments=4

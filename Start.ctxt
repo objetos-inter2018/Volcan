@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\n\ Clase\ que\ crea\ a\ la\ imagen\ Start\ del\ menu.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Start()
+comment1.text=\n\ Contiene\ la\ imagen\ que\ da\ inicio\ al\ juego\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Cuando\ le\ das\ click\ avanza\ al\ mundo\ del\ juego\ y\ reproduce\n\ un\ peque\u00F1o\ sonido\n
+numComments=3

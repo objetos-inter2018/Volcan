@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PocionLentitud
+comment0.text=\n\ Clase\ que\ crea\ la\ pocion\ de\ lentitud.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ PocionLentitud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=PocionLentitud()
+comment2.text=\n\ Se\ escala\ la\ imagen\ de\ pocima\n
+numComments=3
