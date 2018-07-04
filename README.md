@@ -7,17 +7,46 @@ Eres capaz de salvar a la mayoría de náufragos en el juego sin que la lava te 
 
 ### Pocimas
 
-![Pocima_de_Rapidez](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_verde.png)
-
 Pócima de Rapidez: Te ayuda a correr mas rápido sobre el mundo, pero ten cuidado, que a mayor rapidez menor precisión en los movimientos del personaje!
 
-![Pocima_de_Lentitud](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_roja.png)
+![Pocima_de_Rapidez](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_verde.png)
+
 
 Pócima de Lentitud: Te ayuda a avanzar mas lento, es una buena opción si lo que quieres es no tocar tantos obstáculos, pero es mas difícil esquivar la lava.
 
-![Pocima_de_Vida](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_azul.png)
+![Pocima_de_Lentitud](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_roja.png)
+
 
 Pócima de la Vida: Es la pócima mas importante del juego, ya que con esta tu vida aumenta en +1, siempre es útil tener vidas de mas.
+
+![Pocima_de_Vida](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_azul.png)
+
+
+### Personajes
+
+En la region hay dos tipos de habitantes, los de familia dorada y familia de plata, veamos cuales son:
+
+Familia dorada: Tienen la capacidad de moverse.
+
+![Naufrago 1](https://github.com/objetos-inter2018/Volcan/blob/master/images/Naufrago.png)
+
+
+Familia de plata: No pueden moverse.
+
+![Naufrago 2](https://github.com/objetos-inter2018/Volcan/blob/master/images/NaufragoEst.png)
+
+
+## Enemigos y Obstáculos
+
+Lava: Esta lava al momento que la tocas pierdes en automático una vida, cuando la lava ve que estas salvando muchos náufragos, tiene la capacidad de salir en mayor cantidad para imposibilitarte salvar mas.
+
+![Lava](https://github.com/objetos-inter2018/Volcan/blob/master/images/Lava.png)
+
+
+Fuego: Hay partes del juego que tienen fuego y debes tener bastante cuidado si no te quieres quemar los pies, al igual que la lava al tocar uno de estos repercutes en tus vidas.
+
+![Fuego](https://github.com/objetos-inter2018/Volcan/blob/master/images/Fuego.png)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
