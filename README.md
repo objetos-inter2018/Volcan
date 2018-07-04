@@ -54,3 +54,6 @@ Fuego: Hay partes del juego que tienen fuego y debes tener bastante cuidado si n
 ### Video Tutorial
 
 [Ver en YouTube](https://youtu.be/bDgAJI0i5qs)
+
+### Autor
+Ivan Javier Rojas Colorado
