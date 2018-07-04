@@ -28,12 +28,12 @@ En la region hay dos tipos de habitantes, los de familia dorada y familia de pla
 
 Familia dorada: Tienen la capacidad de moverse.
 
-![Naufrago 1](https://github.com/objetos-inter2018/Volcan/blob/master/images/Naufrago.png)
+![Naufrago 1](http://oldcityzip.com/wp-content/uploads/JohnnyCastaway208.png)
 
 
 Familia de plata: No pueden moverse.
 
-![Naufrago 2](https://github.com/objetos-inter2018/Volcan/blob/master/images/NaufragoEst.png)
+![Naufrago 2](http://guessthemovie.net/data/images/w-castaway.png)
 
 
 ## Enemigos y Obstáculos
@@ -45,7 +45,7 @@ Lava: Esta lava al momento que la tocas pierdes en automático una vida, cuando 
 
 Fuego: Hay partes del juego que tienen fuego y debes tener bastante cuidado si no te quieres quemar los pies, al igual que la lava al tocar uno de estos repercutes en tus vidas.
 
-![Fuego](https://github.com/objetos-inter2018/Volcan/blob/master/images/Fuego.png)
+![Fuego](https://www.freeiconspng.com/uploads/fire-19.png)
 
 
 
