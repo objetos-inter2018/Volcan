@@ -6,4 +6,5 @@ comment1.target=void\ act()
 comment1.text=\n\ Cuando\ este\ actor\ es\ pulsado\ se\ dirige\ al\ menu\ principal\ del\ juego\n
 comment2.params=
 comment2.target=Menu()
+comment2.text=\n\ Constructor\ que\ hace\ la\ imagen\ un\ poco\ mas\ peque\u00F1a\n
 numComments=3

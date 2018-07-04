@@ -6,4 +6,5 @@ comment1.target=void\ act()
 comment1.text=\n\ Cuando\ es\ pulsado\ este\ objeto,\ se\ vuelve\ a\ iniciar\ el\ juego.\n
 comment2.params=
 comment2.target=IntentaDenuevo()
+comment2.text=\n\ Constructor\ que\ hace\ que\ la\ imagen\ este\ un\ poco\ mas\ peque\u00F1a\n
 numComments=3

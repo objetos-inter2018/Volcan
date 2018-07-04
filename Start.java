@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Start extends Actor
+public class Start extends OpcionesMainMenu
 {   
     /**
      * Contiene la imagen que da inicio al juego
@@ -26,7 +26,7 @@ public class Start extends Actor
     {
         if(Greenfoot.mouseClicked(this))
         {
-            //Greenfoot.playSound("start.wav");
+            Greenfoot.playSound("start.wav");
             Volcan game = new Volcan();
             Greenfoot.setWorld(game);
         }

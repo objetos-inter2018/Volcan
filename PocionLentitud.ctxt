@@ -6,5 +6,5 @@ comment1.target=void\ act()
 comment1.text=\n\ Act\ -\ do\ whatever\ the\ PocionLentitud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
 comment2.params=
 comment2.target=PocionLentitud()
-comment2.text=\n\ Se\ escala\ la\ imagen\ de\ pocima\n
+comment2.text=\n\ Utiliza\ el\ metodo\ de\ la\ clase\ padre\ item\ para\ reescalar\ esta\ imagen\n
 numComments=3

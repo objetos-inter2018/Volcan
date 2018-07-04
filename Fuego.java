@@ -1,12 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Fuego here.
+ * Clase que crea al obstaculo de fuego.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author IJRC
+ * @version 1.0
  */
-public class Fuego extends Actor
+public class Fuego extends Enemigo
 {
     /**
      * Act - do whatever the Fuego wants to do. This method is called whenever
@@ -15,5 +15,15 @@ public class Fuego extends Actor
     public void act() 
     {
         // Add your action code here.
-    }    
+    }   
+    
+    /**
+     * Constructor que tiene como proposito reescalar la imagen
+     */
+    public Fuego()
+    {
+        GreenfootImage fuego = getImage();
+        fuego.scale(40, 42);
+        setImage(fuego);
+    }
 }

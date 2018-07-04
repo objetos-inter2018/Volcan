@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Lava extends Actor
+public class Lava extends Enemigo
 {
     /**
      * Act - do whatever the Lava wants to do. This method is called whenever

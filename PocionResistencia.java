@@ -1,12 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class PocionResistencia here.
+ * Clase que crea a la pocima de vida.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author IJRC
+ * @version 1.0
  */
-public class PocionResistencia extends Actor
+public class PocionResistencia extends Item
 {
     /**
      * Act - do whatever the PocionResistencia wants to do. This method is called whenever
@@ -16,4 +16,12 @@ public class PocionResistencia extends Actor
     {
         // Add your action code here.
     }    
+    
+    /**
+     * Metodo que tiene como objetivo escalar la imagen
+     */
+    public PocionResistencia()
+    {
+        this.resize();
+    }
 }

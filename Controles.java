@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Controles extends Actor
+public class Controles extends OpcionesMainMenu
 {
     /**
      * Constructor de Controloes, lo escala a un buen tamaño
@@ -28,5 +28,5 @@ public class Controles extends Actor
             Instrucciones controles = new Instrucciones();
             Greenfoot.setWorld(controles);
         }
-    }   
+    }    
 }

@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class IntentaDenuevo extends Actor
+public class IntentaDenuevo extends OpcionesMainMenu
 {
     /**
      * Cuando es pulsado este objeto, se vuelve a iniciar el juego.
@@ -21,6 +21,9 @@ public class IntentaDenuevo extends Actor
         }
     }    
     
+    /**
+     * Constructor que hace que la imagen este un poco mas pequeña
+     */
     public IntentaDenuevo()
     {
         GreenfootImage resize = getImage();

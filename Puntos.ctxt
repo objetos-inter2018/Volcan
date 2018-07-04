@@ -1,13 +1,15 @@
 #BlueJ class context
 comment0.target=Puntos
-comment0.text=\n\ Clase\ que\ lleva\ el\ conteo\ de\ los\ puntos\ en\ el\ juego.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment0.text=\n\ Clase\ que\ lleva\ la\ cuenta\ de\ puntos.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\n\ Act\ -\ do\ whatever\ the\ Counter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
 comment2.params=
-comment2.target=void\ sumaPuntos()
-comment2.text=\n\ Clase\ que\ cuando\ se\ manda\ llamar\ se\ resta\ 1\ de\ la\ variable\ vida.\n
+comment2.target=void\ sumar()
+comment2.text=\n\ Clase\ que\ cuando\ se\ manda\ llamar\ se\ suma\ 1\ a\ la\ variable\ puntos\n
 comment3.params=
-comment3.target=int\ vePuntos()
-comment3.text=\n\ Clase\ que\ contiene\ las\ vidas\ actuales\n\ \n\ @return\ regresa\ las\ vidas\ en\ entero\n
-numComments=4
+comment3.target=int\ getVidas()
+comment4.params=
+comment4.target=int\ vePuntos()
+comment4.text=\n\ Clase\ que\ contiene\ las\ vidas\ actuales\n\ \n\ @return\ regresa\ las\ vidas\ en\ entero\n
+numComments=5

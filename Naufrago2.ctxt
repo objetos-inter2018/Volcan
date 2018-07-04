@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Naufrago2
+comment0.text=\n\ Clase\ que\ crea\ al\ primer\ naufrago\ del\ juego.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Naufrago2()
+comment1.text=\n\ Constuctor\ que\ llama\ a\ metodo\ de\ clase\ personaje\ que\ hace\ un\ resize\ a\ la\ imagen,\ y\ sobreescribe\ a\ ese\ metodo\n\ se\ utiliza\ como\ metodo\ polimorfico\ que\ sobrescribe\ un\ metodo\ concreto\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

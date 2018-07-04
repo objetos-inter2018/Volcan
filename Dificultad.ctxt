@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dificultad
+comment0.text=\n\ Clase\ que\ dirige\ la\ dificultad\ del\ juego.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Dificultad\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ sumar()
+comment2.text=\n\ metodo\ que\ sube\ la\ dificultad\ y\ utiliza\ al\ metodo\ polimorfico\ de\ la\ clase\ marcador\n
+comment3.params=
+comment3.target=int\ regresaDificultad()
+comment3.text=\n\ metodo\ que\ regresa\ la\ dificultad,\ 1\ facil,\ 2\ intermedio,\ 3\ dificil\n\ \n\ @return\ dificultad\ de\ la\ clase\n
+comment4.params=
+comment4.target=int\ getVidas()
+comment5.params=
+comment5.target=int\ regresaPuntos()
+comment5.text=\n\ Metodo\ que\ interactua\ y\ regresa\ los\ puntos\ en\ entero\n\ \n\ @return\ puntuacion\ actual\n
+numComments=6

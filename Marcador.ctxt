@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Marcador
+comment0.text=\n\ Clase\ abstracta\ que\ implementa\ un\ metodo\ de\ suma\ para\ los\ marcadores.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ sumar()
+numComments=2

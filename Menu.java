@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Menu extends Actor
+public class Menu extends OpcionesMainMenu
 {
     /**
      * Cuando este actor es pulsado se dirige al menu principal del juego
@@ -20,6 +20,9 @@ public class Menu extends Actor
         }
     }    
     
+    /**
+     * Constructor que hace la imagen un poco mas pequeña
+     */
     public Menu()
     {
         GreenfootImage resize = getImage();

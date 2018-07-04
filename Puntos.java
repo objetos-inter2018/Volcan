@@ -1,12 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Clase que lleva el conteo de los puntos en el juego.
+ * Clase que lleva la cuenta de puntos.
  * 
  * @author IJRC
  * @version 1.0
  */
-public class Puntos extends Actor
+public class Puntos extends Marcador
 {
     int puntos = 0;
     /**
@@ -25,12 +25,17 @@ public class Puntos extends Actor
     }    
     
     /**
-     * Clase que cuando se manda llamar se resta 1 de la variable vida.
+     * Clase que cuando se manda llamar se suma 1 a la variable puntos
      */
-    public void sumaPuntos()
+    public void sumar()
     {
         puntos++;
     }  
+    
+    public int getVidas()
+    {
+        return puntos;
+    }
     
     /**
      * Clase que contiene las vidas actuales

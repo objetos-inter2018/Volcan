@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class PocionLentitud extends Actor
+public class PocionLentitud extends Item
 {
     /**
      * Act - do whatever the PocionLentitud wants to do. This method is called whenever
@@ -19,12 +19,10 @@ public class PocionLentitud extends Actor
     }   
     
     /**
-     * Se escala la imagen de pocima
+     * Utiliza el metodo de la clase padre item para reescalar esta imagen
      */
     public PocionLentitud()
     {
-        GreenfootImage pocima = getImage();
-        pocima.scale(24, 35);
-        setImage(pocima);
+        this.resize();
     }
 }

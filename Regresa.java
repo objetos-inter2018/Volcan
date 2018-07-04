@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Regresa extends Actor
+public class Regresa extends OpcionesMainMenu
 {
     /**
      * Condicional que cuando se toque este objeto se cree el mundo de menu

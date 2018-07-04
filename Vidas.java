@@ -6,7 +6,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author IJRC
  * @version 1.0
  */
-public class Vidas extends Actor
+public class Vidas extends Marcador
 {
     int vidas = 3;
     /**
@@ -32,6 +32,11 @@ public class Vidas extends Actor
     {
         vidas--;
     }  
+    
+    public void sumar()
+    {
+        vidas++;
+    }
     
     /**
      * Clase que contiene las vidas actuales

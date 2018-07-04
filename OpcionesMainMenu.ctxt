@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OpcionesMainMenu
+comment0.text=\n\ Clase\ padre\ de\ todos\ los\ controles\ y\ opciones\ del\ juego.\n\ \n\ @author\ IJRC\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ OpcionesMainMenu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
