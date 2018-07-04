@@ -2,9 +2,15 @@
 
 You can use the [editor on GitHub](https://github.com/objetos-inter2018/Volcan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Eres capaz de salvar a la mayoria de naufragos en el juego sin que la lava te toque?.
+Con el bombero ayuda a todos los naufragos a rescatarlos de la erupcion volcanica que ocurrió en su
+lugar de vida, en cambio ellos te ayudaran con pocimas para poder hacer la mayor puntuacion posible.
+
+![Imagen de Rescatista](https://github.com/objetos-inter2018/Volcan/blob/master/images/RescatistaB.png)
+
 
 ### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
