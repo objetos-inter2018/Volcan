@@ -40,7 +40,7 @@ Familia de plata: No pueden moverse.
 
 Lava: Esta lava al momento que la tocas pierdes en automático una vida, cuando la lava ve que estas salvando muchos náufragos, tiene la capacidad de salir en mayor cantidad para imposibilitarte salvar mas.
 
-![Lava](https://github.com/objetos-inter2018/Volcan/blob/master/images/Lava.png)
+![Lava](https://raw.githubusercontent.com/objetos-inter2018/Volcan/master/images/Lava.png)
 
 
 Fuego: Hay partes del juego que tienen fuego y debes tener bastante cuidado si no te quieres quemar los pies, al igual que la lava al tocar uno de estos repercutes en tus vidas.
