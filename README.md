@@ -2,7 +2,7 @@
 
 Eres capaz de salvar a la mayoría de náufragos en el juego sin que la lava te toque?. Con el bombero ayuda a todos los náufragos a rescatarlos de la erupción volcánica que ocurrió en su lugar de vida, en cambio ellos te ayudaran con pócimas para poder hacer la mayor puntuación posible.
 
-![Imagen_de_Rescatista](https://github.com/objetos-inter2018/Volcan/blob/master/images/RescatistaB.png)
+![Imagen_de_Rescatista](http://librodevalores.diftamaulipas.gob.mx/preescolar/alumno/3/actividades/1/img/RESCATISTA.png)
 
 
 ### Pocimas
