@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Personaje here.
+ * Clase que es superclase de actores.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author IJRC
+ * @version 1.0
  */
 public class Personaje extends Actor
 {
@@ -15,5 +15,15 @@ public class Personaje extends Actor
     public void act() 
     {
         // Add your action code here.
-    }    
+    }   
+    
+    /**
+     * Metodo que modifica de tamaño un personaje
+     */    
+    public void resizePersonaje(int x, int y)
+    {
+        GreenfootImage naufrago = getImage();
+        naufrago.scale(x, y);
+        setImage(naufrago);
+    }
 }
