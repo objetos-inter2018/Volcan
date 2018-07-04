@@ -9,17 +9,17 @@ Eres capaz de salvar a la mayoría de náufragos en el juego sin que la lava te 
 
 Pócima de Rapidez: Te ayuda a correr mas rápido sobre el mundo, pero ten cuidado, que a mayor rapidez menor precisión en los movimientos del personaje!
 
-![Pocima_de_Rapidez](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_verde.png)
+![Pocima_de_Rapidez](https://vignette.wikia.nocookie.net/zelda/images/c/c0/Artwork_Potion_Verte_TWW.png/revision/latest?cb=20131005211109&path-prefix=fr)
 
 
 Pócima de Lentitud: Te ayuda a avanzar mas lento, es una buena opción si lo que quieres es no tocar tantos obstáculos, pero es mas difícil esquivar la lava.
 
-![Pocima_de_Lentitud](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_roja.png)
+![Pocima_de_Lentitud](https://vignette.wikia.nocookie.net/zelda/images/b/bd/Pocion_roja_ww.png/revision/latest?cb=20140208191256&path-prefix=es)
 
 
 Pócima de la Vida: Es la pócima mas importante del juego, ya que con esta tu vida aumenta en +1, siempre es útil tener vidas de mas.
 
-![Pocima_de_Vida](https://github.com/objetos-inter2018/Volcan/blob/master/images/Pocion_azul.png)
+![Pocima_de_Vida](https://www.zeldadungeon.net/wiki/images/6/64/Bottled_Blue_Potion_(TWW).png)
 
 
 ### Personajes
